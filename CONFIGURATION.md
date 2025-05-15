@@ -39,3 +39,27 @@ Para asignar roles i permisos en la capeta compartida tiens que ir de nuevo al a
 
 ### Aceder de otra maquina cualquiera de la red 
 
+Para poder acceder a tu ownCloude desde otra maquina tienes que entrar a la terminal y poner el siguente comando "sudo nano /var/www/html/owncloud/config/config.php" al tenerlo te pedira una contraseña es usuario
+
+![2 8 paso 8](https://github.com/user-attachments/assets/0e28fb53-8a5f-4db5-801a-15f53c215dfc)
+
+Al tenerlo te saldra una lista de texto tienes que añadir unas cosas
+
+![2 9 paso 8](https://github.com/user-attachments/assets/cd6dff31-c008-46a0-b811-ddf6975763f9)
+
+Para saber la ip de tu maquina tiens que poner el siguente comando "ip a" hay te saldra la ip 
+
+![2 7 paso 8](https://github.com/user-attachments/assets/674f8f7d-47c9-40fe-a8a8-0c0b86782ef8)
+
+Cuando lo tengas todo lo guardas dandole "Control + O" y luego para salir del comando "Control + X"
+
+Ahora para poder entrar pon la ip en el navegador
+
+![2 10 paso 8](https://github.com/user-attachments/assets/4bdb8cf8-6bc8-448c-960f-3f7371318dd5)
+
+Cuando ya estes te saldran dos opciones, una que pone "app-web.zip" y "owncloud/" dale al owncloud cuando le des te dejara entrar y tendras que poner el usuario y la contraseña de tu cuenta y ya estaria 
+
+![2 11 paso 8](https://github.com/user-attachments/assets/4df57282-5ee2-4ac1-afd1-4d8d5325eb05)
+
+
+
