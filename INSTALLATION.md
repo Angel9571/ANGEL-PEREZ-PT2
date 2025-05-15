@@ -87,3 +87,11 @@ Y cuando estes dentro pon este comando que sirve para darle persmisos al directo
 "sudo chmod -R 775 ." al tenerlo tendras que poner este otro comando "sudo chown -R usuario:www-data ." 
 
 ![1 10](https://github.com/user-attachments/assets/8f74c4ab-0f1b-43db-8fb4-a9d8f9a09d61)
+
+Cuando ya lo tengas ves a tu navegador FireFox y escribe "localhost/"
+
+![1 12](https://github.com/user-attachments/assets/83b29464-510c-49c8-be70-203c3425c9bc)
+
+Al entar te saldran dos opicones dale click a la segunda que pone "owncloud/"
+
+![1 13](https://github.com/user-attachments/assets/86459fae-7967-44f0-8e7b-9256bd951bdd)
