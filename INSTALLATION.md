@@ -11,8 +11,6 @@ Ahora actualizaras los repositorios con este comando "sudo apt update"
 
 ![2](https://github.com/user-attachments/assets/3695bbb5-0197-4f61-acf4-bd43d1a0623e)
 
-
-
 Ahora con este comando que te podre ahora instalaras las librerias de PHP de la version 7.4 "sudo apt install php7.4 -y" al tenerlo tendras que poner este otro comando "sudo apt install php7.4 -y" y luego este otro "sudo apt install -y php7.4-fpm php7.4-common php7.4-mbstring php7.4-xmlrpc php7.4-soap php7.4-gd php7.4-xml php7.4-intl php7.4-mysql php7.4-cli php7.4-ldap php7.4-zip php7.4-curl"
 
 ![3](https://github.com/user-attachments/assets/d76b6995-2dc6-44a5-abb2-e06b5be3d797)
@@ -21,7 +19,7 @@ Ahora con este comando que te podre ahora instalaras las librerias de PHP de la 
 
 ![5](https://github.com/user-attachments/assets/292ef9b3-6d0e-4f16-b864-6fe3c638846e)
 
-Ahora con este comando tienes que elegir la veriosn de PHP que quieras con este comando de aqui "sudo update-alternatives --config php", yo elegi la primera version la 1 par aelegirla tienes que poner el numero de la version y darle ENTER.!
+Ahora con este comando tienes que elegir la veriosn de PHP que quieras con este comando de aqui "sudo update-alternatives --config php", yo elegi la primera version la 1 par aelegirla tienes que poner el numero de la version y darle ENTER.
 
 ![6](https://github.com/user-attachments/assets/c747f9fa-e14d-4e5a-8b0a-16df7003a73c)
 
@@ -34,3 +32,16 @@ Cuando ayas elegido la version que quieras tiens que activar los modulos de apac
 Y por ultimo reiniciamos el apache2 "sudo service apache2 restart"
 
 ![9](https://github.com/user-attachments/assets/2e748a75-3246-4e1a-8f0c-f449c9e98b0d)
+
+## Instalacio del ownCloud
+
+Lo primer comando que hay que poner es "sudo apt update" y lugo "sudo apt upgrate"
+
+![1 1](https://github.com/user-attachments/assets/5a8dfcc6-1267-405f-8e66-e5a557da29c1)
+
+![1 2](https://github.com/user-attachments/assets/d6bead0c-2a70-44fd-b6be-798645f456fc)
+
+Al tenerlo tendremos que instalar el servidor web apache2 con este comando "sudo apt install -y apache2"
+
+![1 3](https://github.com/user-attachments/assets/7f6d4c15-2a23-43a8-a7b4-41aee38c3615)
+
