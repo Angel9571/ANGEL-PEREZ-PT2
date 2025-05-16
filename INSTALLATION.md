@@ -92,8 +92,6 @@ Cuando ya lo tengas ves a tu navegador FireFox y escribe "localhost/"
 
 ![1 12](https://github.com/user-attachments/assets/83b29464-510c-49c8-be70-203c3425c9bc)
 
-Al entar te saldran dos opicones dale click a la segunda que pone "owncloud/"
+Al entar te saldran dos opicones dale click a la segunda que pone "owncloud/", al darle te llevara al ownCloude.
 
 ![1 13](https://github.com/user-attachments/assets/86459fae-7967-44f0-8e7b-9256bd951bdd)
-
-Te llevara al ownCloud
