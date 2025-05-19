@@ -17,7 +17,7 @@ Lo prmiero que he echo es crear una carpeta que para crearla tiens que darle al 
 
 ![2 2](https://github.com/user-attachments/assets/a761c481-85dd-4700-9bae-b464440a23f3)
 
-### Crear ususarios
+### Crear usuarios
 
 Para crear un usuario o grupo tienes que ir a la parte de arriba a la drercha donde pone tu nombre y dalre a donde pone "usuario", cuando estes arriba sale que pongas el "nombre de usuario" pones el que sea, al lado sale que le pongas un correo inventatelo y luego le das a crear.
 Para crear un grupo tienes que darle a "agregar grupos" que sale a la arriba a la izquierda le das y le pones el nombre que quieras.
@@ -37,7 +37,7 @@ Para asignar roles i permisos en la capeta compartida tiens que ir de nuevo al a
 
 ![2 5](https://github.com/user-attachments/assets/42fffb8f-f36f-4bd4-9057-84ed751ad56c)
 
-### Aceder de otra maquina cualquiera de la red 
+### Acceder de otra maquina cualquiera de la red 
 
 Para poder acceder a tu ownCloude desde otra maquina tienes que entrar a la terminal y poner el siguente comando "sudo nano /var/www/html/owncloud/config/config.php" al tenerlo te pedira una contraseña es usuario
 
