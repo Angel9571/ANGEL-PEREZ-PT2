@@ -61,7 +61,7 @@ Al tenerlo instalado necesitamos reiniciar el servidor apache2 se reinicia con e
 "**sudo systemctl restart apache2**" 
 
 Al tenerlo tendremos que acceder a la consola de MySQL para hazerlo necesitamos poner este comando
-"**sudo mysql**" luego dentro de ese comando ponemos "**CREATE DATABASE bbdd;**" al tenerlo pondras el siguiente "**CREATE USER 'usuario'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password';**" despues este comando "**GRANT ALL ON bbdd.* to 'usuario'@'localhost';**" y al tenerlo nos saldremos poniendo "**exit**"
+"**sudo mysql**" luego dentro de ese comando ponemos "**CREATE DATABASE bbdd;**" al tenerlo pondras el siguiente "**CREATE USER 'usuario'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password';**" despues este comando "GRANT ALL ON bbdd.* to 'usuario'@'localhost';" y al tenerlo nos saldremos poniendo "**exit**"
 
 ![1 7](https://github.com/user-attachments/assets/a9f151e8-a263-40cc-962e-fb346a8b926b)
 
