@@ -1,5 +1,5 @@
 # ANGEL-PEREZ-PT2
 
-Link Configuracion: 
+Link Configuracion: https://github.com/Angel9571/ANGEL-PEREZ-PT2/blob/main/CONFIGURATION.md
 
 Link Instalacion:
